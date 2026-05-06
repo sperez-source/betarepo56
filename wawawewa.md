@@ -1,7 +1,24 @@
-# Wawawewa
+# Hello World in wawawewa.md
 
-This is a brand new file created in the `sperez-source/betarepo56` repository on the `borat` branch.
+This file has been updated with Hello World code examples.
 
-**Wawawewa!** 🎉
+## Python
+```python
+print("Hello, World!")
+```
 
-Created via Grok's GitHub integration.
+## JavaScript
+```javascript
+console.log("Hello, World!");
+```
+
+## C
+```c
+#include <stdio.h>
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+```
+
+**Wawawewa updated with Hello World!** 🎉
